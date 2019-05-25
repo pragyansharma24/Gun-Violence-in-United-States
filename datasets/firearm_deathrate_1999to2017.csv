@@ -1,0 +1,951 @@
+,Location,"Firearms Death Rate per 100,000",Year
+0,Alaska,15.8,1999
+1,Arizona,16.3,1999
+2,Arkansas,14.6,1999
+3,California,9.3,1999
+4,Colorado,10.8,1999
+5,Connecticut,5.9,1999
+6,Delaware,8.7,1999
+7,District of Columbia,25.5,1999
+8,Florida,10.7,1999
+9,Georgia,13.7,1999
+10,Hawaii,3.4,1999
+11,Idaho,12.2,1999
+12,Illinois,9.7,1999
+13,Indiana,11.2,1999
+14,Iowa,6.8,1999
+15,Kansas,10.0,1999
+16,Kentucky,12.9,1999
+17,Louisiana,17.5,1999
+18,Maine,8.7,1999
+19,Maryland,12.7,1999
+20,Massachusetts,3.0,1999
+21,Michigan,11.0,1999
+22,Minnesota,6.1,1999
+23,Mississippi,18.2,1999
+24,Missouri,12.7,1999
+25,Montana,13.4,1999
+26,Nebraska,8.6,1999
+27,Nevada,20.0,1999
+28,New Hampshire,5.8,1999
+29,New Jersey,4.4,1999
+30,New Mexico,16.3,1999
+31,New York,5.3,1999
+32,North Carolina,13.1,1999
+33,North Dakota,7.5,1999
+34,Ohio,8.2,1999
+35,Oklahoma,14.8,1999
+36,Oregon,11.3,1999
+37,Pennsylvania,9.7,1999
+38,Rhode Island,5.3,1999
+39,South Carolina,13.8,1999
+40,South Dakota,9.7,1999
+41,Tennessee,14.8,1999
+42,Texas,10.5,1999
+43,Utah,9.4,1999
+44,Vermont,9.3,1999
+45,Virginia,11.7,1999
+46,Washington,10.1,1999
+47,West Virginia,13.3,1999
+48,Wisconsin,8.3,1999
+49,Wyoming,15.2,1999
+50,Alaska,17.9,2000
+51,Arizona,15.6,2000
+52,Arkansas,15.4,2000
+53,California,9.3,2000
+54,Colorado,10.3,2000
+55,Connecticut,5.3,2000
+56,Delaware,6.6,2000
+57,District of Columbia,22.8,2000
+58,Florida,10.2,2000
+59,Georgia,13.4,2000
+60,Hawaii,4.2,2000
+61,Idaho,10.2,2000
+62,Illinois,9.0,2000
+63,Indiana,10.9,2000
+64,Iowa,6.4,2000
+65,Kansas,11.2,2000
+66,Kentucky,13.3,2000
+67,Louisiana,17.6,2000
+68,Maine,8.5,2000
+69,Maryland,11.9,2000
+70,Massachusetts,2.7,2000
+71,Michigan,10.8,2000
+72,Minnesota,6.3,2000
+73,Mississippi,16.6,2000
+74,Missouri,13.2,2000
+75,Montana,14.8,2000
+76,Nebraska,9.8,2000
+77,Nevada,17.3,2000
+78,New Hampshire,6.3,2000
+79,New Jersey,4.1,2000
+80,New Mexico,16.1,2000
+81,New York,5.7,2000
+82,North Carolina,13.7,2000
+83,North Dakota,6.6,2000
+84,Ohio,7.8,2000
+85,Oklahoma,13.2,2000
+86,Oregon,10.8,2000
+87,Pennsylvania,10.1,2000
+88,Rhode Island,5.1,2000
+89,South Carolina,12.4,2000
+90,South Dakota,7.5,2000
+91,Tennessee,15.7,2000
+92,Texas,10.6,2000
+93,Utah,9.9,2000
+94,Vermont,8.8,2000
+95,Virginia,11.1,2000
+96,Washington,8.9,2000
+97,West Virginia,13.0,2000
+98,Wisconsin,8.0,2000
+99,Wyoming,11.7,2000
+100,Alaska,14.9,2001
+101,Arizona,16.0,2001
+102,Arkansas,15.3,2001
+103,California,9.4,2001
+104,Colorado,11.7,2001
+105,Connecticut,5.6,2001
+106,Delaware,9.5,2001
+107,District of Columbia,26.0,2001
+108,Florida,10.7,2001
+109,Georgia,13.5,2001
+110,Hawaii,3.7,2001
+111,Idaho,13.5,2001
+112,Illinois,10.2,2001
+113,Indiana,11.9,2001
+114,Iowa,6.4,2001
+115,Kansas,9.9,2001
+116,Kentucky,12.7,2001
+117,Louisiana,17.5,2001
+118,Maine,7.2,2001
+119,Maryland,11.4,2001
+120,Massachusetts,3.0,2001
+121,Michigan,10.8,2001
+122,Minnesota,6.5,2001
+123,Mississippi,17.7,2001
+124,Missouri,13.1,2001
+125,Montana,17.7,2001
+126,Nebraska,8.1,2001
+127,Nevada,16.5,2001
+128,New Hampshire,7.3,2001
+129,New Jersey,4.4,2001
+130,New Mexico,15.3,2001
+131,New York,5.5,2001
+132,North Carolina,13.1,2001
+133,North Dakota,7.6,2001
+134,Ohio,9.0,2001
+135,Oklahoma,14.0,2001
+136,Oregon,10.2,2001
+137,Pennsylvania,9.5,2001
+138,Rhode Island,4.3,2001
+139,South Carolina,13.8,2001
+140,South Dakota,7.1,2001
+141,Tennessee,14.5,2001
+142,Texas,11.2,2001
+143,Utah,11.0,2001
+144,Vermont,8.1,2001
+145,Virginia,10.6,2001
+146,Washington,8.6,2001
+147,West Virginia,13.1,2001
+148,Wisconsin,8.7,2001
+149,Wyoming,14.0,2001
+150,Alaska,19.9,2002
+151,Arizona,18.0,2002
+152,Arkansas,16.3,2002
+153,California,9.8,2002
+154,Colorado,11.5,2002
+155,Connecticut,4.3,2002
+156,Delaware,9.1,2002
+157,District of Columbia,30.3,2002
+158,Florida,11.0,2002
+159,Georgia,13.4,2002
+160,Hawaii,2.8,2002
+161,Idaho,12.4,2002
+162,Illinois,9.7,2002
+163,Indiana,11.7,2002
+164,Iowa,6.8,2002
+165,Kansas,9.8,2002
+166,Kentucky,13.1,2002
+167,Louisiana,19.4,2002
+168,Maine,6.6,2002
+169,Maryland,11.5,2002
+170,Massachusetts,3.1,2002
+171,Michigan,11.0,2002
+172,Minnesota,6.1,2002
+173,Mississippi,17.3,2002
+174,Missouri,12.2,2002
+175,Montana,14.6,2002
+176,Nebraska,8.1,2002
+177,Nevada,17.2,2002
+178,New Hampshire,5.9,2002
+179,New Jersey,4.9,2002
+180,New Mexico,16.6,2002
+181,New York,5.1,2002
+182,North Carolina,13.5,2002
+183,North Dakota,9.1,2002
+184,Ohio,9.3,2002
+185,Oklahoma,12.9,2002
+186,Oregon,10.5,2002
+187,Pennsylvania,9.9,2002
+188,Rhode Island,5.1,2002
+189,South Carolina,13.8,2002
+190,South Dakota,7.9,2002
+191,Tennessee,15.5,2002
+192,Texas,10.9,2002
+193,Utah,9.7,2002
+194,Vermont,9.7,2002
+195,Virginia,11.0,2002
+196,Washington,9.4,2002
+197,West Virginia,14.8,2002
+198,Wisconsin,8.1,2002
+199,Wyoming,18.9,2002
+200,Alaska,19.5,2003
+201,Arizona,15.4,2003
+202,Arkansas,15.1,2003
+203,California,9.8,2003
+204,Colorado,11.2,2003
+205,Connecticut,4.4,2003
+206,Delaware,7.9,2003
+207,District of Columbia,26.0,2003
+208,Florida,11.1,2003
+209,Georgia,13.8,2003
+210,Hawaii,2.9,2003
+211,Idaho,12.4,2003
+212,Illinois,9.0,2003
+213,Indiana,11.2,2003
+214,Iowa,7.0,2003
+215,Kansas,11.1,2003
+216,Kentucky,13.4,2003
+217,Louisiana,18.7,2003
+218,Maine,6.0,2003
+219,Maryland,11.9,2003
+220,Massachusetts,3.1,2003
+221,Michigan,10.3,2003
+222,Minnesota,6.5,2003
+223,Mississippi,16.8,2003
+224,Missouri,11.5,2003
+225,Montana,15.6,2003
+226,Nebraska,7.6,2003
+227,Nevada,17.1,2003
+228,New Hampshire,6.8,2003
+229,New Jersey,5.4,2003
+230,New Mexico,17.5,2003
+231,New York,5.3,2003
+232,North Carolina,12.4,2003
+233,North Dakota,8.9,2003
+234,Ohio,8.1,2003
+235,Oklahoma,12.8,2003
+236,Oregon,10.7,2003
+237,Pennsylvania,9.9,2003
+238,Rhode Island,3.1,2003
+239,South Carolina,14.2,2003
+240,South Dakota,9.9,2003
+241,Tennessee,14.2,2003
+242,Texas,11.2,2003
+243,Utah,10.5,2003
+244,Vermont,7.6,2003
+245,Virginia,10.9,2003
+246,Washington,9.2,2003
+247,West Virginia,14.1,2003
+248,Wisconsin,8.4,2003
+249,Wyoming,17.5,2003
+250,Alaska,17.5,2004
+251,Arizona,15.9,2004
+252,Arkansas,14.7,2004
+253,California,9.3,2004
+254,Colorado,12.0,2004
+255,Connecticut,4.9,2004
+256,Delaware,8.8,2004
+257,District of Columbia,22.4,2004
+258,Florida,10.5,2004
+259,Georgia,12.2,2004
+260,Hawaii,3.1,2004
+261,Idaho,13.0,2004
+262,Illinois,7.8,2004
+263,Indiana,10.3,2004
+264,Iowa,6.4,2004
+265,Kansas,10.8,2004
+266,Kentucky,13.1,2004
+267,Louisiana,19.6,2004
+268,Maine,7.8,2004
+269,Maryland,11.9,2004
+270,Massachusetts,3.2,2004
+271,Michigan,10.5,2004
+272,Minnesota,7.1,2004
+273,Mississippi,16.4,2004
+274,Missouri,11.5,2004
+275,Montana,13.1,2004
+276,Nebraska,6.7,2004
+277,Nevada,16.8,2004
+278,New Hampshire,5.0,2004
+279,New Jersey,5.4,2004
+280,New Mexico,15.2,2004
+281,New York,4.9,2004
+282,North Carolina,12.3,2004
+283,North Dakota,7.6,2004
+284,Ohio,9.0,2004
+285,Oklahoma,12.9,2004
+286,Oregon,10.4,2004
+287,Pennsylvania,10.2,2004
+288,Rhode Island,3.6,2004
+289,South Carolina,13.5,2004
+290,South Dakota,10.0,2004
+291,Tennessee,14.6,2004
+292,Texas,10.7,2004
+293,Utah,10.2,2004
+294,Vermont,9.5,2004
+295,Virginia,10.9,2004
+296,Washington,9.2,2004
+297,West Virginia,13.6,2004
+298,Wisconsin,7.4,2004
+299,Wyoming,11.0,2004
+300,Alaska,17.5,2005
+301,Arizona,16.1,2005
+302,Arkansas,15.7,2005
+303,California,9.5,2005
+304,Colorado,11.6,2005
+305,Connecticut,5.3,2005
+306,Delaware,8.8,2005
+307,District of Columbia,23.8,2005
+308,Florida,10.0,2005
+309,Georgia,12.1,2005
+310,Hawaii,2.1,2005
+311,Idaho,14.1,2005
+312,Illinois,8.0,2005
+313,Indiana,11.2,2005
+314,Iowa,6.7,2005
+315,Kansas,9.3,2005
+316,Kentucky,13.0,2005
+317,Louisiana,18.5,2005
+318,Maine,7.8,2005
+319,Maryland,11.9,2005
+320,Massachusetts,3.4,2005
+321,Michigan,10.8,2005
+322,Minnesota,7.0,2005
+323,Mississippi,16.0,2005
+324,Missouri,12.9,2005
+325,Montana,16.9,2005
+326,Nebraska,7.7,2005
+327,Nevada,16.1,2005
+328,New Hampshire,6.6,2005
+329,New Jersey,5.2,2005
+330,New Mexico,13.9,2005
+331,New York,5.3,2005
+332,North Carolina,12.8,2005
+333,North Dakota,8.8,2005
+334,Ohio,9.6,2005
+335,Oklahoma,13.2,2005
+336,Oregon,10.7,2005
+337,Pennsylvania,10.8,2005
+338,Rhode Island,3.6,2005
+339,South Carolina,13.8,2005
+340,South Dakota,10.2,2005
+341,Tennessee,16.0,2005
+342,Texas,11.1,2005
+343,Utah,10.1,2005
+344,Vermont,6.8,2005
+345,Virginia,11.5,2005
+346,Washington,8.8,2005
+347,West Virginia,13.8,2005
+348,Wisconsin,8.5,2005
+349,Wyoming,13.4,2005
+350,Alaska,17.1,2006
+351,Arizona,16.3,2006
+352,Arkansas,15.1,2006
+353,California,9.2,2006
+354,Colorado,10.4,2006
+355,Connecticut,5.0,2006
+356,Delaware,9.1,2006
+357,District of Columbia,20.4,2006
+358,Florida,11.1,2006
+359,Georgia,12.6,2006
+360,Hawaii,2.4,2006
+361,Idaho,12.7,2006
+362,Illinois,8.1,2006
+363,Indiana,11.6,2006
+364,Iowa,6.3,2006
+365,Kansas,10.9,2006
+366,Kentucky,12.5,2006
+367,Louisiana,19.1,2006
+368,Maine,7.3,2006
+369,Maryland,12.1,2006
+370,Massachusetts,3.2,2006
+371,Michigan,11.5,2006
+372,Minnesota,6.4,2006
+373,Mississippi,16.6,2006
+374,Missouri,13.1,2006
+375,Montana,12.4,2006
+376,Nebraska,7.7,2006
+377,Nevada,16.3,2006
+378,New Hampshire,6.2,2006
+379,New Jersey,5.8,2006
+380,New Mexico,14.5,2006
+381,New York,5.2,2006
+382,North Carolina,12.6,2006
+383,North Dakota,6.5,2006
+384,Ohio,9.7,2006
+385,Oklahoma,13.4,2006
+386,Oregon,10.2,2006
+387,Pennsylvania,10.9,2006
+388,Rhode Island,4.2,2006
+389,South Carolina,13.9,2006
+390,South Dakota,9.7,2006
+391,Tennessee,15.3,2006
+392,Texas,10.5,2006
+393,Utah,9.8,2006
+394,Vermont,8.1,2006
+395,Virginia,10.4,2006
+396,Washington,8.4,2006
+397,West Virginia,13.2,2006
+398,Wisconsin,7.6,2006
+399,Wyoming,15.0,2006
+400,Alaska,18.1,2007
+401,Arizona,15.4,2007
+402,Arkansas,15.1,2007
+403,California,8.9,2007
+404,Colorado,10.4,2007
+405,Connecticut,4.1,2007
+406,Delaware,8.9,2007
+407,District of Columbia,21.6,2007
+408,Florida,12.1,2007
+409,Georgia,13.5,2007
+410,Hawaii,2.5,2007
+411,Idaho,12.7,2007
+412,Illinois,8.1,2007
+413,Indiana,10.5,2007
+414,Iowa,5.0,2007
+415,Kansas,10.4,2007
+416,Kentucky,14.2,2007
+417,Louisiana,19.9,2007
+418,Maine,7.6,2007
+419,Maryland,12.1,2007
+420,Massachusetts,3.6,2007
+421,Michigan,11.0,2007
+422,Minnesota,6.5,2007
+423,Mississippi,18.3,2007
+424,Missouri,12.8,2007
+425,Montana,13.7,2007
+426,Nebraska,7.9,2007
+427,Nevada,15.9,2007
+428,New Hampshire,5.6,2007
+429,New Jersey,5.2,2007
+430,New Mexico,14.9,2007
+431,New York,5.1,2007
+432,North Carolina,12.2,2007
+433,North Dakota,8.4,2007
+434,Ohio,9.6,2007
+435,Oklahoma,13.2,2007
+436,Oregon,9.9,2007
+437,Pennsylvania,10.5,2007
+438,Rhode Island,3.4,2007
+439,South Carolina,13.1,2007
+440,South Dakota,6.2,2007
+441,Tennessee,14.8,2007
+442,Texas,10.9,2007
+443,Utah,10.7,2007
+444,Vermont,8.2,2007
+445,Virginia,10.4,2007
+446,Washington,8.3,2007
+447,West Virginia,14.1,2007
+448,Wisconsin,8.6,2007
+449,Wyoming,14.7,2007
+450,Alaska,21.0,2008
+451,Arizona,14.4,2008
+452,Arkansas,15.5,2008
+453,California,8.5,2008
+454,Colorado,10.4,2008
+455,Connecticut,5.6,2008
+456,Delaware,10.7,2008
+457,District of Columbia,20.1,2008
+458,Florida,12.2,2008
+459,Georgia,12.5,2008
+460,Hawaii,3.0,2008
+461,Idaho,11.5,2008
+462,Illinois,8.6,2008
+463,Indiana,11.2,2008
+464,Iowa,7.3,2008
+465,Kansas,9.7,2008
+466,Kentucky,13.3,2008
+467,Louisiana,18.4,2008
+468,Maine,8.5,2008
+469,Maryland,11.6,2008
+470,Massachusetts,3.4,2008
+471,Michigan,10.9,2008
+472,Minnesota,7.0,2008
+473,Mississippi,19.3,2008
+474,Missouri,13.8,2008
+475,Montana,15.7,2008
+476,Nebraska,8.3,2008
+477,Nevada,15.1,2008
+478,New Hampshire,6.7,2008
+479,New Jersey,5.0,2008
+480,New Mexico,14.7,2008
+481,New York,4.9,2008
+482,North Carolina,12.4,2008
+483,North Dakota,8.5,2008
+484,Ohio,9.7,2008
+485,Oklahoma,14.0,2008
+486,Oregon,9.7,2008
+487,Pennsylvania,10.5,2008
+488,Rhode Island,3.9,2008
+489,South Carolina,13.3,2008
+490,South Dakota,10.6,2008
+491,Tennessee,15.5,2008
+492,Texas,10.8,2008
+493,Utah,9.7,2008
+494,Vermont,8.1,2008
+495,Virginia,10.2,2008
+496,Washington,8.7,2008
+497,West Virginia,12.6,2008
+498,Wisconsin,7.7,2008
+499,Wyoming,16.8,2008
+500,Alaska,14.9,2009
+501,Arizona,13.5,2009
+502,Arkansas,16.2,2009
+503,California,8.2,2009
+504,Colorado,11.6,2009
+505,Connecticut,4.9,2009
+506,Delaware,8.8,2009
+507,District of Columbia,15.9,2009
+508,Florida,12.0,2009
+509,Georgia,13.1,2009
+510,Hawaii,3.4,2009
+511,Idaho,12.8,2009
+512,Illinois,8.2,2009
+513,Indiana,11.3,2009
+514,Iowa,6.2,2009
+515,Kansas,10.8,2009
+516,Kentucky,12.8,2009
+517,Louisiana,18.1,2009
+518,Maine,8.6,2009
+519,Maryland,10.1,2009
+520,Massachusetts,3.1,2009
+521,Michigan,11.1,2009
+522,Minnesota,6.2,2009
+523,Mississippi,16.7,2009
+524,Missouri,13.7,2009
+525,Montana,15.9,2009
+526,Nebraska,7.3,2009
+527,Nevada,15.1,2009
+528,New Hampshire,6.3,2009
+529,New Jersey,4.7,2009
+530,New Mexico,14.5,2009
+531,New York,4.8,2009
+532,North Carolina,11.6,2009
+533,North Dakota,8.9,2009
+534,Ohio,8.5,2009
+535,Oklahoma,14.4,2009
+536,Oregon,10.4,2009
+537,Pennsylvania,10.4,2009
+538,Rhode Island,5.0,2009
+539,South Carolina,13.5,2009
+540,South Dakota,9.4,2009
+541,Tennessee,15.1,2009
+542,Texas,11.0,2009
+543,Utah,10.4,2009
+544,Vermont,8.9,2009
+545,Virginia,10.3,2009
+546,Washington,9.1,2009
+547,West Virginia,13.1,2009
+548,Wisconsin,7.9,2009
+549,Wyoming,17.6,2009
+550,Alaska,20.4,2010
+551,Arizona,14.6,2010
+552,Arkansas,14.4,2010
+553,California,7.7,2010
+554,Colorado,10.8,2010
+555,Connecticut,5.9,2010
+556,Delaware,9.9,2010
+557,District of Columbia,14.2,2010
+558,Florida,11.5,2010
+559,Georgia,12.6,2010
+560,Hawaii,3.2,2010
+561,Idaho,12.8,2010
+562,Illinois,8.2,2010
+563,Indiana,10.8,2010
+564,Iowa,6.8,2010
+565,Kansas,10.5,2010
+566,Kentucky,12.4,2010
+567,Louisiana,19.2,2010
+568,Maine,7.9,2010
+569,Maryland,9.3,2010
+570,Massachusetts,4.1,2010
+571,Michigan,11.0,2010
+572,Minnesota,6.8,2010
+573,Mississippi,16.1,2010
+574,Missouri,14.0,2010
+575,Montana,15.4,2010
+576,Nebraska,8.2,2010
+577,Nevada,14.5,2010
+578,New Hampshire,8.2,2010
+579,New Jersey,5.2,2010
+580,New Mexico,14.9,2010
+581,New York,5.1,2010
+582,North Carolina,11.6,2010
+583,North Dakota,9.5,2010
+584,Ohio,9.9,2010
+585,Oklahoma,14.4,2010
+586,Oregon,11.4,2010
+587,Pennsylvania,10.1,2010
+588,Rhode Island,4.6,2010
+589,South Carolina,14.0,2010
+590,South Dakota,9.2,2010
+591,Tennessee,14.4,2010
+592,Texas,11.0,2010
+593,Utah,12.2,2010
+594,Vermont,10.3,2010
+595,Virginia,10.8,2010
+596,Washington,8.9,2010
+597,West Virginia,14.1,2010
+598,Wisconsin,8.6,2010
+599,Wyoming,15.6,2010
+600,Alaska,17.5,2011
+601,Arizona,14.7,2011
+602,Arkansas,16.1,2011
+603,California,7.8,2011
+604,Colorado,10.9,2011
+605,Connecticut,5.8,2011
+606,Delaware,8.2,2011
+607,District of Columbia,11.8,2011
+608,Florida,12.0,2011
+609,Georgia,12.6,2011
+610,Hawaii,3.5,2011
+611,Idaho,12.3,2011
+612,Illinois,8.6,2011
+613,Indiana,9.7,2011
+614,Iowa,7.1,2011
+615,Kansas,11.4,2011
+616,Kentucky,13.8,2011
+617,Louisiana,18.9,2011
+618,Maine,9.5,2011
+619,Maryland,9.3,2011
+620,Massachusetts,3.8,2011
+621,Michigan,11.8,2011
+622,Minnesota,7.2,2011
+623,Mississippi,18.0,2011
+624,Missouri,14.0,2011
+625,Montana,16.4,2011
+626,Nebraska,8.8,2011
+627,Nevada,13.7,2011
+628,New Hampshire,6.4,2011
+629,New Jersey,5.6,2011
+630,New Mexico,14.8,2011
+631,New York,5.0,2011
+632,North Carolina,11.8,2011
+633,North Dakota,8.8,2011
+634,Ohio,10.5,2011
+635,Oklahoma,16.6,2011
+636,Oregon,10.5,2011
+637,Pennsylvania,11.1,2011
+638,Rhode Island,3.0,2011
+639,South Carolina,14.8,2011
+640,South Dakota,8.4,2011
+641,Tennessee,14.4,2011
+642,Texas,10.3,2011
+643,Utah,12.1,2011
+644,Vermont,11.7,2011
+645,Virginia,10.5,2011
+646,Washington,8.8,2011
+647,West Virginia,14.5,2011
+648,Wisconsin,7.7,2011
+649,Wyoming,16.8,2011
+650,Alaska,17.8,2012
+651,Arizona,14.1,2012
+652,Arkansas,16.6,2012
+653,California,7.9,2012
+654,Colorado,12.6,2012
+655,Connecticut,6.4,2012
+656,Delaware,10.5,2012
+657,District of Columbia,9.4,2012
+658,Florida,12.2,2012
+659,Georgia,12.8,2012
+660,Hawaii,3.4,2012
+661,Idaho,13.0,2012
+662,Illinois,9.1,2012
+663,Indiana,12.2,2012
+664,Iowa,7.0,2012
+665,Kansas,13.1,2012
+666,Kentucky,14.8,2012
+667,Louisiana,18.5,2012
+668,Maine,9.0,2012
+669,Maryland,9.9,2012
+670,Massachusetts,3.4,2012
+671,Michigan,12.3,2012
+672,Minnesota,6.9,2012
+673,Mississippi,18.3,2012
+674,Missouri,14.6,2012
+675,Montana,16.6,2012
+676,Nebraska,9.1,2012
+677,Nevada,12.8,2012
+678,New Hampshire,8.1,2012
+679,New Jersey,5.1,2012
+680,New Mexico,15.5,2012
+681,New York,4.8,2012
+682,North Carolina,11.8,2012
+683,North Dakota,10.5,2012
+684,Ohio,10.9,2012
+685,Oklahoma,16.3,2012
+686,Oregon,10.8,2012
+687,Pennsylvania,11.2,2012
+688,Rhode Island,4.1,2012
+689,South Carolina,15.3,2012
+690,South Dakota,9.5,2012
+691,Tennessee,15.0,2012
+692,Texas,10.7,2012
+693,Utah,12.4,2012
+694,Vermont,8.7,2012
+695,Virginia,10.1,2012
+696,Washington,9.6,2012
+697,West Virginia,14.9,2012
+698,Wisconsin,8.3,2012
+699,Wyoming,20.1,2012
+700,Alaska,19.8,2013
+701,Arizona,14.1,2013
+702,Arkansas,16.8,2013
+703,California,7.7,2013
+704,Colorado,11.5,2013
+705,Connecticut,4.4,2013
+706,Delaware,10.3,2013
+707,District of Columbia,8.9,2013
+708,Florida,11.9,2013
+709,Georgia,12.6,2013
+710,Hawaii,2.6,2013
+711,Idaho,14.1,2013
+712,Illinois,8.6,2013
+713,Indiana,13.0,2013
+714,Iowa,8.0,2013
+715,Kansas,11.4,2013
+716,Kentucky,13.7,2013
+717,Louisiana,19.3,2013
+718,Maine,10.9,2013
+719,Maryland,9.7,2013
+720,Massachusetts,3.1,2013
+721,Michigan,12.0,2013
+722,Minnesota,7.6,2013
+723,Mississippi,17.8,2013
+724,Missouri,14.4,2013
+725,Montana,16.7,2013
+726,Nebraska,9.0,2013
+727,Nevada,13.8,2013
+728,New Hampshire,6.4,2013
+729,New Jersey,5.7,2013
+730,New Mexico,15.5,2013
+731,New York,4.2,2013
+732,North Carolina,12.1,2013
+733,North Dakota,11.8,2013
+734,Ohio,11.0,2013
+735,Oklahoma,16.5,2013
+736,Oregon,11.0,2013
+737,Pennsylvania,11.2,2013
+738,Rhode Island,5.3,2013
+739,South Carolina,15.2,2013
+740,South Dakota,10.0,2013
+741,Tennessee,15.4,2013
+742,Texas,10.6,2013
+743,Utah,12.6,2013
+744,Vermont,9.2,2013
+745,Virginia,10.2,2013
+746,Washington,8.7,2013
+747,West Virginia,14.3,2013
+748,Wisconsin,9.7,2013
+749,Wyoming,16.7,2013
+750,Alaska,19.2,2014
+751,Arizona,13.5,2014
+752,Arkansas,16.6,2014
+753,California,7.4,2014
+754,Colorado,12.2,2014
+755,Connecticut,5.0,2014
+756,Delaware,11.1,2014
+757,District of Columbia,11.7,2014
+758,Florida,11.5,2014
+759,Georgia,13.7,2014
+760,Hawaii,2.6,2014
+761,Idaho,13.2,2014
+762,Illinois,9.0,2014
+763,Indiana,12.4,2014
+764,Iowa,7.5,2014
+765,Kansas,11.3,2014
+766,Kentucky,13.9,2014
+767,Louisiana,19.0,2014
+768,Maine,9.4,2014
+769,Maryland,9.0,2014
+770,Massachusetts,3.2,2014
+771,Michigan,11.1,2014
+772,Minnesota,6.6,2014
+773,Mississippi,18.3,2014
+774,Missouri,15.3,2014
+775,Montana,16.1,2014
+776,Nebraska,9.5,2014
+777,Nevada,14.8,2014
+778,New Hampshire,8.7,2014
+779,New Jersey,5.3,2014
+780,New Mexico,16.0,2014
+781,New York,4.2,2014
+782,North Carolina,11.8,2014
+783,North Dakota,12.3,2014
+784,Ohio,10.3,2014
+785,Oklahoma,15.7,2014
+786,Oregon,11.7,2014
+787,Pennsylvania,10.5,2014
+788,Rhode Island,3.0,2014
+789,South Carolina,15.5,2014
+790,South Dakota,10.3,2014
+791,Tennessee,15.2,2014
+792,Texas,10.7,2014
+793,Utah,12.3,2014
+794,Vermont,10.3,2014
+795,Virginia,10.3,2014
+796,Washington,9.7,2014
+797,West Virginia,14.6,2014
+798,Wisconsin,8.2,2014
+799,Wyoming,16.2,2014
+800,Alaska,23.4,2015
+801,Arizona,13.8,2015
+802,Arkansas,17.0,2015
+803,California,7.7,2015
+804,Colorado,12.6,2015
+805,Connecticut,5.3,2015
+806,Delaware,12.1,2015
+807,District of Columbia,15.3,2015
+808,Florida,12.0,2015
+809,Georgia,14.1,2015
+810,Hawaii,3.6,2015
+811,Idaho,14.9,2015
+812,Illinois,9.5,2015
+813,Indiana,12.7,2015
+814,Iowa,7.8,2015
+815,Kansas,11.4,2015
+816,Kentucky,15.2,2015
+817,Louisiana,20.5,2015
+818,Maine,9.8,2015
+819,Maryland,11.9,2015
+820,Massachusetts,3.0,2015
+821,Michigan,11.7,2015
+822,Minnesota,7.4,2015
+823,Mississippi,19.7,2015
+824,Missouri,18.2,2015
+825,Montana,19.4,2015
+826,Nebraska,8.9,2015
+827,Nevada,15.0,2015
+828,New Hampshire,8.9,2015
+829,New Jersey,5.4,2015
+830,New Mexico,18.6,2015
+831,New York,4.2,2015
+832,North Carolina,12.6,2015
+833,North Dakota,12.8,2015
+834,Ohio,11.9,2015
+835,Oklahoma,18.0,2015
+836,Oregon,11.4,2015
+837,Pennsylvania,11.4,2015
+838,Rhode Island,4.7,2015
+839,South Carolina,17.3,2015
+840,South Dakota,11.1,2015
+841,Tennessee,15.9,2015
+842,Texas,11.8,2015
+843,Utah,12.9,2015
+844,Vermont,9.6,2015
+845,Virginia,10.9,2015
+846,Washington,9.8,2015
+847,West Virginia,14.1,2015
+848,Wisconsin,10.4,2015
+849,Wyoming,19.8,2015
+850,Alaska,23.3,2016
+851,Arizona,15.2,2016
+852,Arkansas,17.8,2016
+853,California,7.9,2016
+854,Colorado,14.3,2016
+855,Connecticut,4.6,2016
+856,Delaware,11.0,2016
+857,District of Columbia,13.8,2016
+858,Florida,12.6,2016
+859,Georgia,15.0,2016
+860,Hawaii,4.5,2016
+861,Idaho,14.6,2016
+862,Illinois,11.7,2016
+863,Indiana,15.0,2016
+864,Iowa,9.2,2016
+865,Kansas,13.4,2016
+866,Kentucky,17.5,2016
+867,Louisiana,21.3,2016
+868,Maine,8.3,2016
+869,Maryland,11.9,2016
+870,Massachusetts,3.4,2016
+871,Michigan,12.3,2016
+872,Minnesota,7.6,2016
+873,Mississippi,19.9,2016
+874,Missouri,19.0,2016
+875,Montana,18.9,2016
+876,Nebraska,9.1,2016
+877,Nevada,16.8,2016
+878,New Hampshire,9.3,2016
+879,New Jersey,5.5,2016
+880,New Mexico,18.1,2016
+881,New York,4.4,2016
+882,North Carolina,13.7,2016
+883,North Dakota,11.9,2016
+884,Ohio,12.9,2016
+885,Oklahoma,19.6,2016
+886,Oregon,11.9,2016
+887,Pennsylvania,12.0,2016
+888,Rhode Island,4.1,2016
+889,South Carolina,17.7,2016
+890,South Dakota,13.4,2016
+891,Tennessee,17.1,2016
+892,Texas,12.1,2016
+893,Utah,12.9,2016
+894,Vermont,11.1,2016
+895,Virginia,12.1,2016
+896,Washington,9.0,2016
+897,West Virginia,17.5,2016
+898,Wisconsin,11.4,2016
+899,Wyoming,17.4,2016
+900,Alaska,24.5,2017
+901,Arizona,15.8,2017
+902,Arkansas,20.3,2017
+903,California,7.9,2017
+904,Colorado,13.4,2017
+905,Connecticut,5.1,2017
+906,Delaware,11.7,2017
+907,District of Columbia,13.1,2017
+908,Florida,12.4,2017
+909,Georgia,15.4,2017
+910,Hawaii,2.5,2017
+911,Idaho,16.4,2017
+912,Illinois,12.1,2017
+913,Indiana,15.3,2017
+914,Iowa,9.0,2017
+915,Kansas,16.0,2017
+916,Kentucky,16.2,2017
+917,Louisiana,21.7,2017
+918,Maine,11.7,2017
+919,Maryland,12.3,2017
+920,Massachusetts,3.7,2017
+921,Michigan,11.3,2017
+922,Minnesota,8.2,2017
+923,Mississippi,21.5,2017
+924,Missouri,21.5,2017
+925,Montana,22.5,2017
+926,Nebraska,8.3,2017
+927,Nevada,16.7,2017
+928,New Hampshire,10.4,2017
+929,New Jersey,5.3,2017
+930,New Mexico,18.5,2017
+931,New York,3.7,2017
+932,North Carolina,13.7,2017
+933,North Dakota,13.2,2017
+934,Ohio,13.7,2017
+935,Oklahoma,17.2,2017
+936,Oregon,12.1,2017
+937,Pennsylvania,12.5,2017
+938,Rhode Island,3.9,2017
+939,South Carolina,17.7,2017
+940,South Dakota,11.9,2017
+941,Tennessee,18.4,2017
+942,Texas,12.4,2017
+943,Utah,14.0,2017
+944,Vermont,11.7,2017
+945,Virginia,11.9,2017
+946,Washington,11.1,2017
+947,West Virginia,18.6,2017
+948,Wisconsin,10.6,2017
+949,Wyoming,18.8,2017
