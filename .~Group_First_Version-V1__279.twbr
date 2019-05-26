@@ -1998,6 +1998,28 @@
       </table>
     </worksheet>
     <worksheet name='statewise_massShoot'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontname='Tableau Medium' fontsize='10'>Mass Shootings in United States</run>
+          </formatted-text>
+        </title>
+        <caption>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000'>Note</run>
+            <run fontcolor='#000000'>: This graph plots mass shootings incidences across United States. Each dot represents a unique incidence.</run>
+            <run>Æ&#10;&#10;</run>
+            <run bold='true' fontcolor='#000000'>Source</run>
+            <run fontcolor='#000000'>: </run>
+            <run>Æ&#10;</run>
+            <run fontcolor='#000000'>1. </run>
+            <run auto-url='true' fontcolor='#337ab7' fontname='Helvetica Neue,Helvetica,Arial,sans-serif' fontsize='8' hyperlink='tabdoc:load-url url=&amp;quot;https://www.gunviolencearchive.org/&amp;quot;' underline='true'>https://www.gunviolencearchive.org/</run>
+            <run>Æ&#10;</run>
+            <run fontcolor='#000000'>2.</run>
+            <run auto-url='true' fontcolor='#337ab7' fontname='Helvetica Neue,Helvetica,Arial,sans-serif' fontsize='8' hyperlink='tabdoc:load-url url=&amp;quot;https://public.opendatasoft.com/explore/dataset/1000-largest-us-cities-by-population-with-geographic-coordinates/table/?sort=-rank&amp;quot;' underline='true'>https://public.opendatasoft.com/explore/dataset/1000-largest-us-cities-by-population-with-geographic-coordinates/table/?sort=-rank</run>
+          </formatted-text>
+        </caption>
+      </layout-options>
       <table>
         <view>
           <datasources>
@@ -2020,8 +2042,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.1q79mup0yyv3ov1gh06wi0p4kl02].[none:lng:qk]' field-type='quantitative' max='-5308416.0985454228' min='-15829755.799919544' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.1q79mup0yyv3ov1gh06wi0p4kl02].[none:lat:qk]' field-type='quantitative' max='7732034.6624064706' min='984205.98940301663' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.1q79mup0yyv3ov1gh06wi0p4kl02].[none:lng:qk]' field-type='quantitative' max='-7116899.9250886925' min='-14128380.259637319' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1q79mup0yyv3ov1gh06wi0p4kl02].[none:lat:qk]' field-type='quantitative' max='7138818.9548896831' min='2615549.1850741822' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='mark'>
             <encoding attr='color' field='[federated.1q79mup0yyv3ov1gh06wi0p4kl02].[none:Number of Records:qk]' num-steps='16' type='custom-interpolated'>
@@ -2207,7 +2229,7 @@
     </dashboard>
   </dashboards>
   <windows source-height='135'>
-    <window class='worksheet' maximized='true' name='country_gunHomicides'>
+    <window class='worksheet' name='country_gunHomicides'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -2322,7 +2344,7 @@
       </viewpoint>
       <simple-id uuid='{33EF340E-223A-4BA8-AA08-ECA2F622A594}' />
     </window>
-    <window class='worksheet' name='statewise_massShoot'>
+    <window class='worksheet' maximized='true' name='statewise_massShoot'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -2342,9 +2364,9 @@
             <card type='title' />
           </strip>
         </edge>
-        <edge name='right'>
-          <strip size='160'>
-            <card pane-specification-id='0' param='[federated.1q79mup0yyv3ov1gh06wi0p4kl02].[none:Number of Records:qk]' type='color' />
+        <edge name='bottom'>
+          <strip size='94'>
+            <card type='caption' />
           </strip>
         </edge>
       </cards>
